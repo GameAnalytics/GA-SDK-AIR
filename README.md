@@ -9,9 +9,14 @@ Supported platforms:
 
 * iOS
 * Android
+* Windows
+* Mac OS X
 
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.0**
+* added Mac and Windows support
+
 **1.0.0**
 * Public release
