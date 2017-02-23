@@ -15,6 +15,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.2**
+* added OS version, device model and device manufacturer to event (windows, mac)
+
 **1.1.1**
 * changed extension id from com.gameanalytics.sdk.ane to com.gameanalytics.sdk
 
