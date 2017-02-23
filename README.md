@@ -15,6 +15,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.1**
+* changed extension id from com.gameanalytics.sdk.ane to com.gameanalytics.sdk
+
 **1.1.0**
 * added Mac and Windows support
 
