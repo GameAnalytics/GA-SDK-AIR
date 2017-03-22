@@ -15,6 +15,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.4**
+* session length precision improvement
+
 **1.1.3**
 * custom user id bug fix
 
