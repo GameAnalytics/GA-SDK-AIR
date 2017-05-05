@@ -5,6 +5,10 @@ Official GameAnalytics Adobe AIR SDK.
 
 Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-AIR/wiki).
 
+> :information_source:
+> Requirements:   
+> **Adobe Air**: 24 and up
+
 Supported platforms:
 
 * iOS
