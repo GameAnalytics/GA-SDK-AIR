@@ -28,6 +28,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.7**
+* windows crash bug fix (windows)
+
 **1.1.6**
 * bug fix to init call on windows and mac (windows, mac)
 
