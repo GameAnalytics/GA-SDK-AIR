@@ -28,6 +28,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.8**
+* https fix for mac (mac)
+
 **1.1.7**
 * windows crash bug fix (windows)
 
