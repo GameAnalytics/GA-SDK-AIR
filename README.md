@@ -28,6 +28,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.9**
+* fixed progression events bug
+
 **1.1.8**
 * https fix for mac (mac)
 
