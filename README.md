@@ -3,7 +3,7 @@ GA-SDK-AIR
 
 Official GameAnalytics Adobe AIR SDK.
 
-Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-AIR/wiki).
+Documentation can be found [here](https://gameanalytics.com/docs/adobe-air-sdk).
 
 > :information_source:
 > Requirements:   
