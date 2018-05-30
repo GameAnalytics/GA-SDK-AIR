@@ -28,6 +28,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.11**
+* added custom dimensions to design and error events
+
 **1.1.10**
 * fixed session length bug
 * fixed now allowing to add events when session is not started
