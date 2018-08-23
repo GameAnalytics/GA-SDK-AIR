@@ -28,6 +28,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.0.0**
+* added command center functionality
+
 **1.1.11**
 * added custom dimensions to design and error events
 
