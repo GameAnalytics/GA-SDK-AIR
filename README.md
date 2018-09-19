@@ -28,6 +28,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.0.1**
+* fixed thread hanging on shutdown for desktop platforms
+
 **2.0.0**
 * added command center functionality
 
