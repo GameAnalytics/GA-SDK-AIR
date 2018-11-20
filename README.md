@@ -28,6 +28,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.0.2**
+* fixed business event validation
+
 **2.0.1**
 * fixed thread hanging on shutdown for desktop platforms
 
