@@ -5,6 +5,8 @@ Official GameAnalytics Adobe AIR SDK.
 
 Documentation can be found [here](https://gameanalytics.com/docs/adobe-air-sdk).
 
+If you have any issues or feedback regarding the SDK, please contact our friendly support team [here](https://gameanalytics.com/contact).
+
 > :information_source:
 > Requirements:   
 > **Adobe Air**: 24 and up   
