@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.1.1**
+* fixes for desktop platforms
+
 **2.1.0**
 * added enable/disable event submission function
 
