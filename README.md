@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.1.2**
+* added check if log files and database can't be created
+
 **2.1.1**
 * fixes for desktop platforms
 
