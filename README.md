@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.1.4**
+* updated libraries
+
 **2.1.3**
 * updated air sdk to v33 to support android 64-bit builds
 
