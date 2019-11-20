@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.1.6**
+* fixed extension version
+
 **2.1.5**
 * added missing android arm64 package
 
