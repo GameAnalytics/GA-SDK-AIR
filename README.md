@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.0.2**
+* fixed events bug (ios)
+
 **3.0.1**
 * init function bug fix for android
 
