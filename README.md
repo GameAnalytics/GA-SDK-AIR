@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.0.4**
+* fixed ios build error
+
 **3.0.3**
 * remote configs fixes
 
