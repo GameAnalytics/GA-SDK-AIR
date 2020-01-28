@@ -30,6 +30,10 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.0.7**
+* removed facebook, gender and birthyear methods
+* added auto detect app version for build field option
+
 **3.0.6**
 * A/B testing fixes
 
