@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.0.8**
+* added support for windows 64-bit
+
 **3.0.7**
 * removed facebook, gender and birthyear methods
 * added auto detect app version for build field option
