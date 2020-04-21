@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.0.9**
+* exposed onQuit function for windows and mac builds to be able to close down SDK properly
+
 **3.0.8**
 * added support for windows 64-bit
 
