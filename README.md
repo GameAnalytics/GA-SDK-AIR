@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.1.0**
+* exposed functions to get AB testing id and variant id
+
 **3.0.9**
 * exposed onQuit function for windows and mac builds to be able to close down SDK properly
 
