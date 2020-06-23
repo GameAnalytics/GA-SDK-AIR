@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.1.2**
+* fixed progression events with scores (android)
+
 **3.1.1**
 * removed android dependencies (.ane files) as native android library has been refactored to not be dependent on those libraries anymore
 
