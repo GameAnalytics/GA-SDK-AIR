@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.1.3**
+* fixed ios compile error
+
 **3.1.2**
 * fixed progression events with scores (android)
 
