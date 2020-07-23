@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.2.0**
+* updated user identifier flow to prepare for iOS 14 IDFA changes (ios)
+
 **3.1.3**
 * fixed ios compile error
 
