@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.3.0**
+* added ad event
+
 **3.2.0**
 * updated user identifier flow to prepare for iOS 14 IDFA changes (ios)
 
