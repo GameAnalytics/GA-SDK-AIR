@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.3.1**
+* added missing enums
+
 **3.3.0**
 * added ad event
 
