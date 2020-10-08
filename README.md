@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.3.3**
+* fixed issue with useImei property
+
 **3.3.2**
 * improved user identifer flow for ios (ios)
 
