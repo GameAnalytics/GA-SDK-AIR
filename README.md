@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.3.4**
+* corrected ad event annotation
+
 **3.3.3**
 * fixed issue with useImei property
 
