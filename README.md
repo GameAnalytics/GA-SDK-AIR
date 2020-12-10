@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.3.5**
+* fixed ios compile errors
+
 **3.3.4**
 * corrected ad event annotation
 
