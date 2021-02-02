@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.3.7**
+* updated client ts validator
+
 **3.3.6**
 * removed memory info from automatic crash reports
 
