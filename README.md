@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.3.8**
+* added idfa consent status field to events (ios)
+
 **3.3.7**
 * updated client ts validator
 
