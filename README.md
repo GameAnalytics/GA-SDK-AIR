@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.1.0**
+* added custom event fields feature
+
 **4.0.1**
 * small fix
 
