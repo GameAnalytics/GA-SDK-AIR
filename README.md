@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.2.2**
+* fixed setGlobalCustomEventFields build error for ios
+
 **4.2.1**
 * fixed missing custom event fields for when trying to fix missing session end events
 
