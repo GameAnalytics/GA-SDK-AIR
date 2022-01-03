@@ -30,6 +30,10 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.2.3**
+* added error events to be sent for invalid custom event fields used
+* added optional mergeFields argument to event methods to merge with global custom fields instead of overwrite them
+
 **4.2.2**
 * fixed setGlobalCustomEventFields build error for ios
 
