@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.2.5**
+* fixed progression tries bug for desktop platforms
+
 **4.2.4**
 * removed imei identifiers and other alternative identifiers from user identifier logic (android)
 
