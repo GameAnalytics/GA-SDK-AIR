@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.2.6**
+* added event uuid to events sent
+
 **4.2.5**
 * fixed progression tries bug for desktop platforms
 
