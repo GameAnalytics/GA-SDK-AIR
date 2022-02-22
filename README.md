@@ -30,6 +30,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.2.7**
+* fixed bug in internal error reporting
+
 **4.2.6**
 * added event uuid to events sent
 
