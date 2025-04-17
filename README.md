@@ -1,6 +1,9 @@
 GA-SDK-AIR
 ==========
 
+> [!WARNING]
+> This SDK has been deprecated and will not receive further updates. This repository is for legacy purposes only.
+
 Official GameAnalytics Adobe AIR SDK.
 
 Documentation can be found [here](https://gameanalytics.com/docs/adobe-air-sdk).
